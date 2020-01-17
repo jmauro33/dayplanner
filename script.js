@@ -8,7 +8,6 @@ function setDate() {
 
 // code for functionality of app 
 
-
 function setTimes() {
   for (let i=0; i < 24; i++) {
     var t = today.add(1,'hour').format('h a')
