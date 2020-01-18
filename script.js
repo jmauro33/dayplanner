@@ -22,3 +22,5 @@
 localStorage.content = $('#test').html('Test');
 
 $('#test').html(localStorage.content);
+
+function getHours()
